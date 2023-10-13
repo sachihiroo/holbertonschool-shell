@@ -1,2 +1,2 @@
 #!/bin/bash
-ehho $PATH | ls .| wc -1 | '\n'
+echo $PATH | ls .| wc -1 | '\n'
